@@ -7,3 +7,4 @@ Pastikan menggunakan Node JS versi 21+
 
 Contoh Tampilannya: 
 
+![Image](https://github.com/user-attachments/assets/a978be60-9296-4dcc-8e5c-972f334bd102)
