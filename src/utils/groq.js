@@ -15,7 +15,7 @@ export const requestToGroqAI = async (content) => {
                 content,
             },
         ],
-        model: "llama3-8b-8192",
+        model: "qwen-2.5-coder-32b",
     });
     return reply.choices[0].message.content;
 }
